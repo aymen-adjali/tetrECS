@@ -1,0 +1,10 @@
+Aymen:10000
+Aymen2:9000
+Aymen3:8000
+Aymen4:7000
+Aymen5:6000
+Aymen6:5000
+Aymen7:4000
+Aymen8:2000
+Aymen9:1000
+Aymen github!:50

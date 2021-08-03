@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cad2a504-b064-4da1-ad03-736c29d34fb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../backup files/scoreList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../backup files/scorescne.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tetrecs-demo/scores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tetrecs-demo/tetrecs.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q7cYt1n35G6AJdiqx0C2RIDnbt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="uk.ac.soton.comp1206.scene" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aymen A\OneDrive - University of Southampton\Documents\University\Semesters\Semester2\COMP1206 Programming 2\coursework\tetrecs\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.tetrecs [clean,compile,javafx:run]">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.soton.comp1206.App" />
+      <module name="tetrecs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.soton.comp1206.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tetrecs [clean,compile,javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.tetrecs [clean,compile,javafx:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cad2a504-b064-4da1-ad03-736c29d34fb8" name="Default Changelist" comment="" />
+      <created>1616434122324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616434122324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1143" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628007212379">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1143" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1628007212379" />
+    <state x="591" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619392944498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1619392944498" />
+    <state x="549" y="130" key="FileChooserDialogImpl" timestamp="1619437033846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="130" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619437033846" />
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom" timestamp="1628018862970">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1628018862970" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372969174" />
+    <state width="1493" height="75" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619430791905" />
+    <state width="1877" height="313" key="GridCell.Tab.0.center" timestamp="1628018862969">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.center/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1628018862969" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372969174" />
+    <state width="1493" height="75" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619430791904" />
+    <state width="1877" height="313" key="GridCell.Tab.0.left" timestamp="1628018862969">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.left/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1628018862969" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372969174" />
+    <state width="1493" height="75" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619430791904" />
+    <state width="1877" height="313" key="GridCell.Tab.0.right" timestamp="1628018862969">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="313" key="GridCell.Tab.0.right/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1628018862969" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372969174" />
+    <state width="1493" height="75" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619430791905" />
+    <state width="1493" height="21" key="GridCell.Tab.1.bottom" timestamp="1619409991491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="36" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372199377" />
+    <state width="1493" height="21" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619409991491" />
+    <state width="1493" height="21" key="GridCell.Tab.1.center" timestamp="1619409991491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="36" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372199377" />
+    <state width="1493" height="21" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619409991491" />
+    <state width="1493" height="21" key="GridCell.Tab.1.left" timestamp="1619409991491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="36" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372199377" />
+    <state width="1493" height="21" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619409991491" />
+    <state width="1493" height="21" key="GridCell.Tab.1.right" timestamp="1619409991491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="36" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619372199377" />
+    <state width="1493" height="21" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619409991491" />
+    <state x="-1459" y="173" key="SettingsEditor" timestamp="1627997754431">
+      <screen x="-1920" y="8" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="173" key="SettingsEditor/0.0.1536.824/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1627997754431" />
+    <state x="604" y="212" key="refactoring.ChangeSignatureDialog" timestamp="1619424131262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="212" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1619424131262" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1619426171688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619367661773" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619426171688" />
+  </component>
+</project>
