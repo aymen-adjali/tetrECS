@@ -14,6 +14,14 @@ This project is a fast paced block placement game (based on tetris). Compete to 
 
 ## Screen Shots
 
+<img src="./images/menu.png" alt="menu" style="width:500px;"/>
+<br><br>
+<img src="./images/instructions.png" alt="instructions" style="width:500px;"/>
+<br><br>
+<img src="./images/challenge.png" alt="challenge" style="width:500px;"/>
+<br><br>
+<img src="./images/scores.png" alt="scores" style="width:500px;"/>
+
 ## General Information
 ### Skills developed as a result of this project:
 - JavaFX
@@ -44,7 +52,7 @@ This project is a fast paced block placement game (based on tetris). Compete to 
 
 ## Video
 
-![Simulation](./video/ECSBattleArena.gif)
+
 
 ## Setup
 [Apache Maven](https://maven.apache.org/install.html) will need to be installed in order to play the game.
