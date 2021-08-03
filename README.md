@@ -3,53 +3,58 @@ This project is a fast paced block placement game (based on tetris). Compete to 
  
 ## Table of Contents
 * [General Info](#general-information)
+* [Screen Shots](#screen-shots)
 * [Technologies Used](#technologies-used)
 * [Video](#video)
+* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
+## Screen Shots
+
 ## General Information
-Skills developed as a result of this project:
+### Skills developed as a result of this project:
 - JavaFX
+- Using Maven for build automation
 - Creating and using custom components
 - Graphics and animation
 - Listeners, properties and binding
 - Communications
 - Media
-- Files
+- Files     
 
-The battle is outputted into the command line.
-
-There are many mechanics of the simulation, such as Hit Points, Knowledge Points, Experience Points, and characteristics like speed, attack and defence, which change 
-when characters level up.
-
-The "brains" of the simulation is the StudentTeam class, where the program decides which attack to use. All student have base attacks, 
-and special abilities which can only be used if they have enough KP (knowledge points). Students have multiple special abilities so the class
-also tries to make the most of each ability, using the ability that would be most effective in that situation. For example choosing to heal if 
-students are low HP instead of attacking.
+ ### Mechanics of the game:
+- You have a 5x5 grid.
+- You score by clearing lines, horizontally or vertically.
+- You can rotate pieces.
+- You can store a single piece to come back to later.
+- The more lines you clear in one go, the more points you get.
+- Every piece that you play that clears at least one line increases your score multiplier.
+- As your score goes up, so does your level, and you get less time to think.
+- If you fail to place a block, you lose a life.
+- Lose 3 lives, and the game ends.
 
 ## Technologies Used
 - Java
+- JavaFX
+- Maven
 - Command line
 
 ## Video
 
 ![Simulation](./video/ECSBattleArena.gif)
 
+## Setup
+[Apache Maven](https://maven.apache.org/install.html) will need to be installed in order to play the game.
+
 ## Usage
-A Monsters.txt file (in the correct format) is needed in order to provide monsters for the students to fight. 
-Each line in the file is a new "level" of monsters. Made up of minions and bosses.
-The simulation is run with the command:
+Use these commands to start the game:
 
-javac TowerOfMonsters.java
-
-java TowerOfMonsters (file(change location if necessary) that you want to use to run the simulation with).
-eg: java TowerOfMonsters ../Monsters.txt
-
-### Example Monster.txt file
-![Example of Monsters.txt file](./images/monsters.png)
+- mvn clean
+- mvn compile
+- javafx:run
 
 ## Project Status
 Project is: _complete_
@@ -57,9 +62,10 @@ Project is: _complete_
 ## Room for Improvement
 
 Room for improvement:
-- Add a GUI for the simulation.
-- Add new student types with different abilities. 
-- Adjust StudentTeam to be smarter/more optimise for calculating student attacks.
+- Add multiplayer mode.
+- Add a hover effect showing where the piece will be placed. 
+- Create customisable UIs, for example letting the user chose what music they want.
+- Add statistics to the score section, add the ability to save and retrieve them between games.
 
 ## Acknowledgements
 - This project was inspired by [The Electronics and Computer Science department at The University Of Southampton](https://www.ecs.soton.ac.uk/).
