@@ -38,6 +38,8 @@ https://user-images.githubusercontent.com/76476479/128232986-7d87e45a-c079-4bf4-
 - If you fail to place a block, you lose a life.
 - Lose 3 lives, and the game ends.
 
+- The game is fully playable using only keyboard inputs.
+
 ## Technologies Used
 - Java
 - JavaFX
