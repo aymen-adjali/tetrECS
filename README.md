@@ -2,25 +2,19 @@
 This project is a fast paced block placement game (based on tetris). Compete to achieve new local and online high scores!
  
 ## Table of Contents
-* [General Info](#general-information)
-* [Screen Shots](#screen-shots)
-* [Technologies Used](#technologies-used)
 * [Video](#video)
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
+* [Screen Shots](#screen-shots)
 * [Acknowledgements](#acknowledgements)
 
-## Screen Shots
+## Video
 
-<img src="./images/menu.png" alt="menu" style="width:500px;"/>
-<br><br>
-<img src="./images/instructions.png" alt="instructions" style="width:500px;"/>
-<br><br>
-<img src="./images/challenge.png" alt="challenge" style="width:500px;"/>
-<br><br>
-<img src="./images/scores.png" alt="scores" style="width:500px;"/>
+https://user-images.githubusercontent.com/76476479/128232986-7d87e45a-c079-4bf4-872c-b78b195ddb51.mp4
 
 ## General Information
 ### Skills developed as a result of this project:
@@ -50,10 +44,6 @@ This project is a fast paced block placement game (based on tetris). Compete to 
 - Maven
 - Command line
 
-## Video
-
-
-
 ## Setup
 [Apache Maven](https://maven.apache.org/install.html) will need to be installed in order to play the game.
 
@@ -74,6 +64,16 @@ Room for improvement:
 - Add a hover effect showing where the piece will be placed. 
 - Create customisable UIs, for example letting the user chose what music they want.
 - Add statistics to the score section, add the ability to save and retrieve them between games.
+
+## Screen Shots
+
+<img src="./images/menu.png" alt="menu" style="width:500px;"/>
+<br><br>
+<img src="./images/instructions.png" alt="instructions" style="width:500px;"/>
+<br><br>
+<img src="./images/challenge.png" alt="challenge" style="width:500px;"/>
+<br><br>
+<img src="./images/scores.png" alt="scores" style="width:500px;"/>
 
 ## Acknowledgements
 - This project was inspired by [The Electronics and Computer Science department at The University Of Southampton](https://www.ecs.soton.ac.uk/).
